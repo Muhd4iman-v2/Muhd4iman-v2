@@ -14,10 +14,9 @@ I am currently a Computer Science student at UiTM interested in software enginee
 - C++
 - React
 - Next.JS
-[List what you know. Example: Python, Git, SQL]
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- MyJPJ eAduan Overhaul Proposal(https://github.com/Muhd4iman-v2/CSC649_Assignment1): A computer vision system proposal designed to overhaul the MyJPJ eAduan section by automating traffic offense evidence evaluation and eliminating manual verification backlogs.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/muhd4iman/
